@@ -1,0 +1,55 @@
+.container{
+  width: 1340px;
+  height: 2110px;
+  background-color: black;
+}
+.column1{
+  width:300px;
+  float:left;
+}
+.column2{
+  width:740px;
+  float:left;
+}
+.column3{
+  width:200px;
+  float:left;
+  margin-left:100px;
+}
+.pageheader{
+  color: white;
+  font-family: 'Allison', cursive;
+  font-size: 32px;
+  text-align: center;
+}
+.pageinfo{
+  font-family: 'Roboto', sans-serif;
+  font-size: 18px;
+  font-weight: 100;
+  color: white;
+  text-align: center;
+}
+.listheader{
+  font-family: 'Roboto', sans-serif;
+  font-size: 21px;
+  font-weight:500;
+  color:white;
+  text-align:left;
+  margin-left:100px;
+}
+.ingredientslist{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight:100;
+  color: lightgray;
+  text-align: left;
+  margin-left: 150px;
+}
+.instructionslist{
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight:100;
+  color: lightgray;
+  text-align: left;
+  margin-left: 150px;
+}
